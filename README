@@ -28,3 +28,7 @@ Weather Data Retrieval: The app fetches real-time weather data from an external 
 Dynamic Display: The retrieved weather information is dynamically appended to the weather-body section using JavaScript.
 Error Handling and Notifications: The app uses SweetAlert to display error messages or notifications for invalid city names
 or other issues.
+
+https://github.com/Reddy2782/CODETECH-Task1/issues/1#issue-2452774187
+
+
